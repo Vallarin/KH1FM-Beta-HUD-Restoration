@@ -24,7 +24,7 @@ assets:
    method: copy
    source:
      - name: remastered/command2/uitex.bin/SP_uitex_bin10780.dds
-- name: remastered/command2/uitex.bin/UK_uitex_bin10780.dds
+ - name: remastered/command2/uitex.bin/UK_uitex_bin10780.dds
    method: copy
    source:
      - name: remastered/command2/uitex.bin/UK_uitex_bin10780.dds
