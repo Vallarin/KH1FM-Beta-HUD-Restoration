@@ -4,8 +4,7 @@ logo: Icon.png
 originalAuthor: Vallarin
 description: Restores the Beta HUD from the original KH1 Beta Trailer.
 assets:
-  #Images
-  - name: command2/uitex.bin/-10780.dds
-    method: copy
-    source:
-      - name: command2/uitex.bin/-10780.dds
+ - name: uitex.bin/-10780.dds
+   method: copy
+   source:
+     - name: uitex.bin/-10780.dds
